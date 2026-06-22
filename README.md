@@ -1,7 +1,7 @@
 # 2026 Web Science &amp; Digital Libraries Research Group Expo
 ## 2026-06-23
 
-2:00pm--4:30pm EDT
+2:00pm--4:00pm EDT
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://bsky.app/profile/webscidl.bsky.social)).  Be sure to check out the [2025](https://github.com/oduwsdl/2025-research-expo), [2024](https://github.com/oduwsdl/2024-research-expo), [2023](https://github.com/oduwsdl/2023-research-expo/), [2022](https://github.com/oduwsdl/2022-research-expo/), and [2021](https://github.com/oduwsdl/2021-research-expo/) Research Expos.
 
