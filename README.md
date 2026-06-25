@@ -5,9 +5,9 @@
 
 All are welcome: current, past, prospective members, and friends of WS-DL ([@WebSciDL](https://bsky.app/profile/webscidl.bsky.social)).  Be sure to check out the [2025](https://github.com/oduwsdl/2025-research-expo), [2024](https://github.com/oduwsdl/2024-research-expo), [2023](https://github.com/oduwsdl/2023-research-expo/), [2022](https://github.com/oduwsdl/2022-research-expo/), and [2021](https://github.com/oduwsdl/2021-research-expo/) Research Expos.
 
-Youtube recording of the presentations: [TBD](TBD), [Zoom](https://odu.zoom.us/j/98723254432)
+Youtube recording of the presentations: [https://www.youtube.com/watch?v=edwP1mSDYA4](https://www.youtube.com/watch?v=edwP1mSDYA4)
 
-WS-DL blog: [TBD](TBD)
+WS-DL blog: [https://www.blogger.com/blog/post/preview/953024975153422094/8111007412612401174)](https://www.blogger.com/blog/post/preview/953024975153422094/8111007412612401174)
 
 | Time  | Presentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
